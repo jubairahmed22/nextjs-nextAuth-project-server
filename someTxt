@@ -1,0 +1,5 @@
+DB_USER=political-portfolio
+DB_PASS=oFqYmkxLoGpxiRVA
+PORT=5000
+JWT_SECRET="programming-hero"
+EXPIRES_IN='1d'
